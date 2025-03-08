@@ -2,6 +2,7 @@
   "name": "projecttypejs",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "transpile": "tsup src",
     "start-dev": "tsx src/index.ts",
